@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\session21.Models\session21.Models.csproj" />
+    <ProjectReference Include="..\sesstion.Infrastructure\sesstion.Infrastructure.csproj" />
+    <ProjectReference Include="..\sesstion21.Tools\sesstion21.Tools.csproj" />
+  </ItemGroup>
+
+</Project>

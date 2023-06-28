@@ -1,0 +1,17 @@
+D:\learning\C#.practice\session21\sesstion.Infrastructure\bin\Debug\net7.0\sesstion.Infrastructure.deps.json
+D:\learning\C#.practice\session21\sesstion.Infrastructure\bin\Debug\net7.0\sesstion.Infrastructure.dll
+D:\learning\C#.practice\session21\sesstion.Infrastructure\bin\Debug\net7.0\sesstion.Infrastructure.pdb
+D:\learning\C#.practice\session21\sesstion.Infrastructure\obj\Debug\net7.0\sesstion.Infrastructure.csproj.AssemblyReference.cache
+D:\learning\C#.practice\session21\sesstion.Infrastructure\obj\Debug\net7.0\sesstion.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\learning\C#.practice\session21\sesstion.Infrastructure\obj\Debug\net7.0\sesstion.Infrastructure.AssemblyInfoInputs.cache
+D:\learning\C#.practice\session21\sesstion.Infrastructure\obj\Debug\net7.0\sesstion.Infrastructure.AssemblyInfo.cs
+D:\learning\C#.practice\session21\sesstion.Infrastructure\obj\Debug\net7.0\sesstion.Infrastructure.csproj.CoreCompileInputs.cache
+D:\learning\C#.practice\session21\sesstion.Infrastructure\obj\Debug\net7.0\sesstion.Infrastructure.dll
+D:\learning\C#.practice\session21\sesstion.Infrastructure\obj\Debug\net7.0\refint\sesstion.Infrastructure.dll
+D:\learning\C#.practice\session21\sesstion.Infrastructure\obj\Debug\net7.0\sesstion.Infrastructure.pdb
+D:\learning\C#.practice\session21\sesstion.Infrastructure\obj\Debug\net7.0\ref\sesstion.Infrastructure.dll
+D:\learning\C#.practice\session21\sesstion.Infrastructure\bin\Debug\net7.0\sesstion.Infrastructure.runtimeconfig.json
+D:\learning\C#.practice\session21\sesstion.Infrastructure\bin\Debug\net7.0\session21.Models.dll
+D:\learning\C#.practice\session21\sesstion.Infrastructure\bin\Debug\net7.0\session21.Models.pdb
+D:\learning\C#.practice\session21\sesstion.Infrastructure\obj\Debug\net7.0\sesstion.Infrastructure.csproj.CopyComplete
+D:\learning\C#.practice\session21\sesstion.Infrastructure\obj\Debug\net7.0\sesstion.Infrastructure.genruntimeconfig.cache

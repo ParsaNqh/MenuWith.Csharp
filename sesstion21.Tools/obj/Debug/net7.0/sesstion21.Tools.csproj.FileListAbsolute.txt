@@ -1,0 +1,12 @@
+D:\learning\C#.practice\session21\sesstion21.Tools\bin\Debug\net7.0\sesstion21.Tools.deps.json
+D:\learning\C#.practice\session21\sesstion21.Tools\bin\Debug\net7.0\sesstion21.Tools.dll
+D:\learning\C#.practice\session21\sesstion21.Tools\bin\Debug\net7.0\sesstion21.Tools.pdb
+D:\learning\C#.practice\session21\sesstion21.Tools\obj\Debug\net7.0\sesstion21.Tools.csproj.AssemblyReference.cache
+D:\learning\C#.practice\session21\sesstion21.Tools\obj\Debug\net7.0\sesstion21.Tools.GeneratedMSBuildEditorConfig.editorconfig
+D:\learning\C#.practice\session21\sesstion21.Tools\obj\Debug\net7.0\sesstion21.Tools.AssemblyInfoInputs.cache
+D:\learning\C#.practice\session21\sesstion21.Tools\obj\Debug\net7.0\sesstion21.Tools.AssemblyInfo.cs
+D:\learning\C#.practice\session21\sesstion21.Tools\obj\Debug\net7.0\sesstion21.Tools.csproj.CoreCompileInputs.cache
+D:\learning\C#.practice\session21\sesstion21.Tools\obj\Debug\net7.0\sesstion21.Tools.dll
+D:\learning\C#.practice\session21\sesstion21.Tools\obj\Debug\net7.0\refint\sesstion21.Tools.dll
+D:\learning\C#.practice\session21\sesstion21.Tools\obj\Debug\net7.0\sesstion21.Tools.pdb
+D:\learning\C#.practice\session21\sesstion21.Tools\obj\Debug\net7.0\ref\sesstion21.Tools.dll

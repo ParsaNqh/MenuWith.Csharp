@@ -1,0 +1,12 @@
+D:\learning\C#.practice\session21\session21.Models\bin\Debug\net7.0\session21.Models.deps.json
+D:\learning\C#.practice\session21\session21.Models\bin\Debug\net7.0\session21.Models.dll
+D:\learning\C#.practice\session21\session21.Models\bin\Debug\net7.0\session21.Models.pdb
+D:\learning\C#.practice\session21\session21.Models\obj\Debug\net7.0\session21.Models.csproj.AssemblyReference.cache
+D:\learning\C#.practice\session21\session21.Models\obj\Debug\net7.0\session21.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\learning\C#.practice\session21\session21.Models\obj\Debug\net7.0\session21.Models.AssemblyInfoInputs.cache
+D:\learning\C#.practice\session21\session21.Models\obj\Debug\net7.0\session21.Models.AssemblyInfo.cs
+D:\learning\C#.practice\session21\session21.Models\obj\Debug\net7.0\session21.Models.csproj.CoreCompileInputs.cache
+D:\learning\C#.practice\session21\session21.Models\obj\Debug\net7.0\session21.Models.dll
+D:\learning\C#.practice\session21\session21.Models\obj\Debug\net7.0\refint\session21.Models.dll
+D:\learning\C#.practice\session21\session21.Models\obj\Debug\net7.0\session21.Models.pdb
+D:\learning\C#.practice\session21\session21.Models\obj\Debug\net7.0\ref\session21.Models.dll
